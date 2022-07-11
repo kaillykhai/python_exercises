@@ -1,0 +1,16 @@
+Binary number
+print(bin(101))=>0b1100101
+print(bin(23))=>0b10111
+print(bin(24))=>0b11000
+Decimal number
+print(round(5.6))=>6
+print(round(5.89))=>6
+print(round(5.78))=>6
+print(round(6.9))=>7
+print(round(9.99))=>10
+Udemy exercise
+print((5 + 4) * 10 / 2)=>45.0
+print(((5 + 4) * 10) / 2)=>45.0
+print((5 + 4) * (10 / 2))=>45.0
+print(5 + (4 * 10) / 2)=>25.0
+print(5 + 4 * 10 // 2)=>25
